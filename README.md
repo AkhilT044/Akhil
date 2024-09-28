@@ -1,6 +1,6 @@
 # Akhil's GitHub Profile
 
-![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png) [**My LinkedIn Profile**](https://www.linkedin.com/in/thati-akhil-9ba260247/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="100" height="100"> [**My LinkedIn Profile**](https://www.linkedin.com/in/your-linkedin-profile/)
 
 ## About Me
 

@@ -20,7 +20,7 @@ Throughout my journey, I have worked on multiple projects in diverse domains whi
 ## Featured Projects
 
 ### Airlines Dashboard
-A Power BI dashboard created to analyze airline customer satisfaction, delay times, and other metrics to help improve service quality. You can check out the project [here](https://github.com/your-github-repo-link).
+A Power BI dashboard created to analyze airline customer satisfaction, delay times, and other metrics to help improve service quality. You can check out the project [here]([https://github.com/your-github-repo-link](https://github.com/AkhilT044/Airlines-Dashboard-Project-)).
 
 ### Credit Risk Classification Model
 A machine learning model developed to predict the credit risk of customers based on their financial behavior and history. The model helps financial institutions manage risk and make informed lending decisions.
